@@ -106,7 +106,7 @@ Watch the runners pass timing mats in real time across the console, Kafka UI, an
 🧹 How to Reset State & Generate New Race Data
 To record clean video demonstrations or re-run tests from scratch, clear local Delta storage and recreate the Kafka topic offsets.
 
-https://youtu.be/nHMCJx3l07g 
+[![Watch the full video]](https://youtu.be/nHMCJx3l07g)
 
 
 
